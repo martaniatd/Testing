@@ -15,6 +15,5 @@ cout<<hasil="isosceles"
 else if (a==b)
 cout<<hasil="Equilateral"
 else
-  cout<<hasil="scalene"
-  
+  cout<<hasil="scalene;
 getch();
