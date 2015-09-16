@@ -8,7 +8,7 @@ cout << " Input Number = " ;
 cin>>a;
 cout << " Input Power = ";
 cin>>b;
-cout << " d = " << hasil << '\n'; 
+cout << " Hasil = " << hasil << '\n'; 
 getch(); 
 }
 
